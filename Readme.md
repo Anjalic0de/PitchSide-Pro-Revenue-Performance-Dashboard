@@ -95,9 +95,9 @@ The challenge was to identify the key factors influencing revenue performance an
 
 ## 📁 Project Files
 
-- Power BI Dashboard (.pbix)
-- Dashboard screenshots
-- Project documentation
+- [Power BI Dashboard (.pbix)](World%20Champs%20BCN%2026%20-%20Round%201.pbix)
+- [Dashboard screenshots](Screenshots)
+- [Project documentation](Readme.md)
 
 ---
 
