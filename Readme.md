@@ -76,22 +76,20 @@ The challenge was to identify the key factors influencing revenue performance an
 
 ## 📸 Dashboard Preview
 
-## 📸 Dashboard Preview
-
 ### Page 1 — Executive Revenue Overview
-[Page 1](Page1.png)
+[Page 1](Screenshots/Page1.png)
 
 ### Page 2 — Revenue Drivers Analysis
-[Page 2](Page2.png)
+[Page 2](Screenshots/Page2.png)
 
 ### Page 3 — Product Performance Analysis
-[Page 3](Page3.png)
+[Page 3](Screenshots/Page3.png)
 
 ### Page 4 — Customer & Conversion Analysis
-[Page 4](Page4.png)
+[Page 4](Screenshots/Page4.png)
 
 ### Page 5 — Business Insights & Recommendations
-[Page 5](Page5.png)
+[Page 5](Screenshots/Page5.png)
 
 ---
 
