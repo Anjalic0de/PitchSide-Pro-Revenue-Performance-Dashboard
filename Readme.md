@@ -95,7 +95,7 @@ The challenge was to identify the key factors influencing revenue performance an
 
 ## 📁 Project Files
 
-- [Power BI Dashboard](PitchSide-Pro-Dashboard.pbix)
+- [Power BI Dashboard(.pbix)](PitchSide-Pro-Dashboard.pbix)
 - [Dashboard screenshots](Screenshots)
 - [Project documentation](Readme.md)
 
